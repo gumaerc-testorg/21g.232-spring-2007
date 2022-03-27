@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7a3eaf42-7074-b381-c2a0-a0c04c1581b6
 resourcetype: Document
 title: Sample Progress Memo
 uid: bd778b94-ab84-f178-92ce-9b2a4398e43f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7a3eaf42-7074-b381-c2a0-a0c04c1581b6
 resourcetype: Document
 title: 'Effective Use of Visual Aids:'
 uid: 32ac858b-6c26-65f2-ca19-e9c2de6a5aa7

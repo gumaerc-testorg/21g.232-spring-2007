@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7a3eaf42-7074-b381-c2a0-a0c04c1581b6
 resourcetype: Document
 title: 'Mock Interviews: Criteria for Grading'
 uid: 6dc98573-34c9-1f52-c52a-6aebc2ab559f
