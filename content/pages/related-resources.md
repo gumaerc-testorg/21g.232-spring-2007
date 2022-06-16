@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources on English as a second
+  language (ESL), listening skills, public speaking, educational media and resources,
+  news and television, and career planning.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

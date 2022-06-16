@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course description and information about course
+  objectives, required materials, attendance and participation, grade distribution,
+  independent practice of clear speech and critical listening, and recommended citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -168,5 +171,5 @@ In addition, you are expected to spend at least two hours each week this term wo
     *   When you go the Center, ask an assistant to help you with any questions or problems.
 2.  Listen to the radio (e.g., NPR at [90.9 FM](http://www.wbur.org/)), watch TV (e.g., [PBS](http://www.pbs.org/)) at home, use on-line materials from the recommended list, or go to movies or plays.
 3.  Practice critical listening during academic conversations, lectures, departmental seminars, or research group meetings.
-4.  Practice with the on-line materials recommended in [related resources]({{< baseurl >}}/pages/related-resources).
+4.  Practice with the on-line materials recommended in {{% resource_link 4f4b7048-f73d-af95-d226-9468d0490f3f "related resources" %}}.
 5.  Practice critical listening and impromptu speaking in English socially.
