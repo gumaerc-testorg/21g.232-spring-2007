@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a calendar of lecture topics, readings, and other
+  preparations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1d690d24-22c4-1b1f-10c5-392a508992ee
 ---

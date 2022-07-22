@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This section provides information about course assignments, the mock
+  job interview, impromptu debate, interactive teaching, formal introduction, explanation
+  of visual aid, research/business presentation with Q & A, Washington Week, and critical
+  review memos.
+draft: false
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 7a3eaf42-7074-b381-c2a0-a0c04c1581b6
 ---
-
 Mock Job Interview
 ------------------
 
@@ -19,7 +26,7 @@ The interview will take place between a candidate seeking a position as consulta
 
 Be familiar with the materials on job interviews. Please see [MIT Career Office: Interviewing](http://web.mit.edu/career/www/guide/interviews.html).
 
-Worksheet for Strategic Interviews ([PDF]({{< baseurl >}}/resources/mit21g_232s07_inv_workshee))
+Worksheet for Strategic Interviews ({{% resource_link 32ac858b-6c26-65f2-ca19-e9c2de6a5aa7 "PDF" %}})
 
 ### Dialogue
 
@@ -86,7 +93,7 @@ JOB APPLICANT
 
 ### Evaluation
 
-You will be evaluated only on your role as the job applicant. Please see the criteria for grading here ([PDF]({{< baseurl >}}/resources/mit21g_232s07_interview_gr)).
+You will be evaluated only on your role as the job applicant. Please see the criteria for grading here ({{% resource_link 98873994-5206-8a2b-6d73-7be5f2f13830 "PDF" %}}).
 
 Impromptu Debate
 ----------------
@@ -103,9 +110,9 @@ Your group's performance will be based on the following criteria:
 4.  Use of gambits and flexibility in responding to opponents
 5.  Nonverbal communication
 
-Procedure ([PDF]({{< baseurl >}}/resources/mit21g_232s07_deb_procedur))
+Procedure ({{% resource_link 6dc98573-34c9-1f52-c52a-6aebc2ab559f "PDF" %}})
 
-Worksheet and Summary ([PDF]({{< baseurl >}}/resources/mit21g_232s07_deb_workshee))
+Worksheet and Summary ({{% resource_link 482cbe8e-5552-35b4-3471-48919b8b7143 "PDF" %}})
 
 Interactive Teaching
 --------------------
@@ -181,7 +188,7 @@ Research/Business Presention with Q & A
 
 You have approximately fifteen minutes to deliver a presentation, including a question and answer (Q & A) session, to a specific professional audience with a need for, and interest in, your information. You may base the presentation on material in one of your other course, on a paper or a research project you have already completed, or on research in which you are currently involved. Appropriate topics include the state of the art of a particular technology, exciting new research results and their ramifications; new uses for old methods/materials, policy analyses, and market research to identify new niches.
 
-Guidelines for Successful Q & A Sessions ([PDF]({{< baseurl >}}/resources/mit21g_232s07_qa_sessions))
+Guidelines for Successful Q & A Sessions ({{% resource_link 5d0e8c20-8661-7c14-cb14-8e6130b1c52a "PDF" %}})
 
 ### Materials Needed
 
@@ -200,7 +207,7 @@ _Washington Week_
 
 Students were required to watch an episode of the PBS show _[Washington Week](http://www.pbs.org/weta/washingtonweek/)_.
 
-_Washington Week_ Worksheet ([PDF]({{< baseurl >}}/resources/mit21g_232s07_washington))
+_Washington Week_ Worksheet ({{% resource_link 32d6babb-4332-8f34-1351-ad0c018c9bfd "PDF" %}})
 
 Critical Review Memos
 ---------------------
@@ -209,9 +216,9 @@ You will be responsible for five short memos over the course of the semester; th
 
 Please consult the following sample memos for proper formatting:
 
-Sample Conventional Memo ([PDF]({{< baseurl >}}/resources/mit21g_232s07_conv_memo))
+Sample Conventional Memo ({{% resource_link ac1c86d9-4472-04e3-9c8d-e16c7b02520c "PDF" %}})
 
-Sample Progress Memo ([PDF]({{< baseurl >}}/resources/mit21g_232s07_progress_mem))
+Sample Progress Memo ({{% resource_link bd778b94-ab84-f178-92ce-9b2a4398e43f "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
