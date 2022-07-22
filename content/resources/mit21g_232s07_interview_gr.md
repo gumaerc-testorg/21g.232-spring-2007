@@ -6,6 +6,7 @@ file: /courses/21g-232-advanced-speaking-and-critical-listening-skills-els-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Mock Interviews: Criteria for Grading'
 uid: 98873994-5206-8a2b-6d73-7be5f2f13830
 ---
 This resource contains information regarding criteria for grading the mock interviews.
-

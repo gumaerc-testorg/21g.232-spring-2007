@@ -6,6 +6,7 @@ file: /courses/21g-232-advanced-speaking-and-critical-listening-skills-els-sprin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sample Progress Memo
 uid: bd778b94-ab84-f178-92ce-9b2a4398e43f
 ---
 This resource contains information regarding guidelines on the format of a progress memo.
-
