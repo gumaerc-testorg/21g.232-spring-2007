@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource contains information regarding guidelines for successful Q & A sessions.
-

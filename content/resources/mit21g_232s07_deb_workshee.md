@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource contains a worksheet for the impromptu debate assignment.
-
