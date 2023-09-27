@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource contains information regarding procedure guidelines for the impromptu debate.
-
