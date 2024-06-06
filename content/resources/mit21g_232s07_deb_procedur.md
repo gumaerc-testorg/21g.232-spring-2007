@@ -4,6 +4,7 @@ description: This resource contains information regarding procedure guidelines f
   the impromptu debate.
 draft: false
 file: /courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/6dc9857334c91f52c52a6aebc2ab559f_MIT21G_232S07_deb_procedur.pdf
+file_size: 188699
 file_type: application/pdf
 image_metadata:
   caption: ''
