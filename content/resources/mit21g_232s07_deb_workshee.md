@@ -4,6 +4,7 @@ description: This resource contains information regarding worksheet for the impr
   debate assignment.
 draft: false
 file: /courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/482cbe8e555235b4347148919b8b7143_MIT21G_232S07_deb_workshee.pdf
+file_size: 597699
 file_type: application/pdf
 image_metadata:
   caption: ''
