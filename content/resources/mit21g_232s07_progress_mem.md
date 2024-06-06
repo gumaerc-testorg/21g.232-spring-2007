@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding guidelines on the format
   of a progress memo.
 file: /courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/bd778b94ab84f17892ce9b2a4398e43f_MIT21G_232S07_progress_mem.pdf
+file_size: 181089
 file_type: application/pdf
 learning_resource_types:
 - Assignments
