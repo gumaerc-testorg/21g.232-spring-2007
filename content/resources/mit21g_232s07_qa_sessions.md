@@ -4,6 +4,7 @@ description: This resource contains information regarding guidelines for success
   Q & A sessions.
 draft: false
 file: /courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/5d0e8c2086617c14cb148e6130b1c52a_MIT21G_232S07_QA_sessions.pdf
+file_size: 628046
 file_type: application/pdf
 image_metadata:
   caption: ''
