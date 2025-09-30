@@ -169,7 +169,7 @@ In addition, you are expected to spend at least two hours each week this term wo
 1.  Spend time in LLARC, using any English audiocassettes, videocassettes, or DVDs that appeal to you. In addition, I will make suggestions for each of you, depending on your particular speaking/listening strengths and weaknesses.
     *   Familiarize yourself with the collection and procedures in LLARC.
     *   When you go the Center, ask an assistant to help you with any questions or problems.
-2.  Listen to the radio (e.g., NPR at [90.9 FM](http://www.wbur.org/)), watch TV (e.g., [PBS](http://www.pbs.org/)) at home, use on-line materials from the recommended list, or go to movies or plays.
+2.  Listen to the radio (e.g., NPR at {{% resource_link "1251041d-65e3-4a35-bd3b-df778b6b47cc" "90.9 FM" %}}), watch TV (e.g., {{% resource_link "e9af0225-814d-454a-80d8-ddc865ef4e34" "PBS" %}}) at home, use on-line materials from the recommended list, or go to movies or plays.
 3.  Practice critical listening during academic conversations, lectures, departmental seminars, or research group meetings.
 4.  Practice with the on-line materials recommended in {{% resource_link 4f4b7048-f73d-af95-d226-9468d0490f3f "related resources" %}}.
 5.  Practice critical listening and impromptu speaking in English socially.
