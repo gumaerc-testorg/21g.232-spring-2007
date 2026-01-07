@@ -24,7 +24,7 @@ The interview will take place between a candidate seeking a position as consulta
 
 ### Preparation
 
-Be familiar with the materials on job interviews. Please see {{% resource_link "edef9261-0ea8-405d-a01a-dd2a9778562a" "MIT Career Office: Interviewing" %}}.
+Be familiar with the materials on job interviews. Please see [MIT Career Office: Interviewing](http://web.mit.edu/career/www/guide/interviews.html).
 
 Worksheet for Strategic Interviews ({{% resource_link 32ac858b-6c26-65f2-ca19-e9c2de6a5aa7 "PDF" %}})
 
@@ -205,7 +205,7 @@ You will view your recorded presenation and prepare a short reaction/self-evalua
 _Washington Week_
 -----------------
 
-Students were required to watch an episode of the PBS show _{{% resource_link "36c03b9d-b847-4ca0-9b05-0f4ee5d590f0" "Washington Week" %}}_.
+Students were required to watch an episode of the PBS show _[Washington Week](http://www.pbs.org/weta/washingtonweek/)_.
 
 _Washington Week_ Worksheet ({{% resource_link 32d6babb-4332-8f34-1351-ad0c018c9bfd "PDF" %}})
 

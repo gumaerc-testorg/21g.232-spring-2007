@@ -88,7 +88,7 @@ Delivery
 Job interviews: Guest
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "c744809c-9985-4421-bca4-67398096f69b" "MIT Careers Office" %}}
+[MIT Careers Office](http://web.mit.edu/career/www/)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +154,7 @@ Working in groups 1
 {{< tdopen >}}
 
 
-Before Ses #11, watch {{% resource_link "36c03b9d-b847-4ca0-9b05-0f4ee5d590f0" "_Washington Week_" %}} .
+Before Ses #11, watch [_Washington Week_](http://www.pbs.org/weta/washingtonweek/) .
 
 Please see study materials for the study sheet.
 
